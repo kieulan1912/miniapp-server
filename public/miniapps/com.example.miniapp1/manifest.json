@@ -1,0 +1,9 @@
+{
+  "id": "com.example.miniapp1",
+  "displayName": "Mini App Demo",
+  "icon": "https://via.placeholder.com/48",
+  "version": "1.0.0",
+  "versionId": "v1",
+  "description": "Mini app sample for local testing",
+  "host": "http://localhost:3000"
+}
