@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Đường dẫn đến mini app bạn muốn deploy
-DEPLOY_DIR="public/miniapps/com.example.miniapp1/v1"
+DEPLOY_DIR="public/miniapps/com.example.miniapp1/weather"
 
 # Kiểm tra gh-pages đã được cài chưa
 if ! npx --no-install gh-pages --version > /dev/null 2>&1; then
