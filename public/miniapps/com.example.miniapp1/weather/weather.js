@@ -3,7 +3,7 @@ document.getElementById("send-to-flutter").addEventListener("click", () => {
   const message = {
     type: "weatherInfo",
     payload: {
-      temperature: "25°C",
+      temperature: "30°C",
       condition: "Sunny",
     }
   };
